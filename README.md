@@ -21,8 +21,11 @@ In Gradle Module file in dependencies:
 
 
 In Gradle Project file under plugins:
+```
   ext {
     lifecycleVersion = '2.3.1'
     roomVersion = '2.4.0-alpha05'
 }
+```
+
 
